@@ -2,5 +2,12 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 h1{
+    font-weight: 800;
     size: 50px;
+}
+.name{
+    color: rgb(255, 166, 0);
+}
+p{  font-weight: 700;
+    color: black;
 }
