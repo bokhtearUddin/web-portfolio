@@ -26,11 +26,45 @@ p{
     width: 40%;
     float: right;
 }
+.btn-1{
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    color: aliceblue;
+    background-image: linear-gradient(45deg,rgba(170, 182, 62, 0.829),orange);
+}
+.btn-1 a{
+    text-decoration: none;
+}
 .half-width2 img{
     width: 100%;
 }
 .section-1{
+    margin-bottom: 150px;
     background-repeat: no-repeat;
     height: 500px;
     background-image: url("developer-portfolio/top-banner.png");
+}
+
+.section-2{
+    background-image: url("developer-portfolio/dream-bg.png");
+    background-position: right;
+    margin-bottom: 150px;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.half-width-3{
+    padding: 4%;
+    margin-left: 10px;
+    width: 40%;
+    float: left;
+}
+.half-width-3 img{
+    width: 100%;
+}
+.half-width-4{
+    padding: 3%;
+    margin-right: 10px;
+    width: 40%;
+    float: right;
 }
