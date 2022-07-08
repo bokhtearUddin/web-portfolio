@@ -1,13 +1,26 @@
 body{
     font-family: 'Poppins', sans-serif;
-}
-h1{
-    font-weight: 800;
-    size: 50px;
+    color: black;
 }
 .name{
-    color: rgb(255, 166, 0);
+    color: orange;
 }
-p{  font-weight: 700;
+p{
     color: black;
+    font-weight: 700;
+}
+.half-width{
+    padding: 4%;
+    margin-left: 10px;
+    width: 40%;
+    float: left;
+}
+.half-width2{
+    padding: 3%;
+    margin-right: 10px;
+    width: 40%;
+    float: right;
+}
+.half-width2 img{
+    width: 100%;
 }
