@@ -68,3 +68,28 @@ p{
     width: 40%;
     float: right;
 }
+.same{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding: 2%;
+    margin-left: 5%;
+    box-shadow: 5px 5px 5px 5px rgb(170, 166, 166);
+    
+}
+#H-W-5{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, rgb(207, 92, 47), rgb(221, 148, 135));
+    border-image-slice: 1 ;
+}
+#H-W-6{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, rgb(5, 45, 223), rgb(158, 224, 250));
+    border-image-slice: 1 ;
+}
+.section3{
+    float: left;
+    background-image: url(developer-portfolio/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
